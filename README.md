@@ -12,13 +12,13 @@ Customer churn is costly beyond the lost sale: acquisition costs (marketing, onb
 
 | Driver | Finding |
 |---|---|
-| **Contract type** | Month-to-month customers churn at 42.7%, vs. 11.3% (one-year) and 2.8% (two-year) |
-| **Payment method** | Electronic check churns at 45.3% — more than double any other payment method |
-| **Online security** | Customers without security add-ons churn at 41.8%, vs. 14.6% with it |
-| **Senior citizens** | Churn at 41.7%, nearly double non-seniors (23.6%) |
+| **Contract type** | Month-to-month customers churn at 43%, vs. 11% (one-year) and 3% (two-year) |
+| **Payment method** | Electronic check churns at 45% — more than double any other payment method |
+| **Online security** | Customers without security add-ons churn at 42%, vs. 15% with it |
+| **Senior citizens** | Churn at 42%, nearly double non-seniors (24%) |
 | **Tenure** | Strongest numeric predictor of churn (correlation: -0.35); churned customers have a median tenure of 10 months vs. 38 months for retained customers |
 
-Overall baseline churn rate: **26.5%** (1,869 of 7,043 customers).
+Overall baseline churn rate: **27%** (1,869 of 7,043 customers).
 
 ## Repository Structure
 
